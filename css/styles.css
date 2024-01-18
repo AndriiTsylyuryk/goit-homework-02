@@ -80,6 +80,7 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.09em;
 background-color: #4D5AE5;
+cursor: pointer;
 }
 
 .main-button:hover {

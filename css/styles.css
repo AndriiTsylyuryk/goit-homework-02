@@ -114,6 +114,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
+.section-title-presentation{
+    background-color: #FFFFFF;
+}
 .team{
    background-color: #F4F4FD;
 }
@@ -123,14 +126,14 @@ letter-spacing: 0.02em;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
-letter-spacing: 0.06em;
+letter-spacing: 0.02em;
 }
 
 .team-member-position {
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
-letter-spacing: 0.09em;
+letter-spacing: 0.02em;
 }
 
 .portfolio-title {
@@ -138,13 +141,13 @@ letter-spacing: 0.09em;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
-letter-spacing: 0.06em;
+letter-spacing: 0.02em;
 }
 .portfolio-title-descr {
     font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
-letter-spacing: 0.09em;
+letter-spacing: 0.02em;
 }
 
 footer{
